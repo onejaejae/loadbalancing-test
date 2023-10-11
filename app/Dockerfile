@@ -8,4 +8,4 @@ RUN yarn install
 
 COPY ./ ./
 
-CMD ["node", "index.ts"]
+CMD ["node", "index.js"]
